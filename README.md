@@ -17,7 +17,7 @@
 | **11**  | On my own                   |           |          |
 | **12**  | Red and black               | mscz      |          |
 | **13**  | Do you hear the people sing |           |          |
-| **14**  | Little fall of rain         | mscz      |          |
+| **14**  | Little fall of rain         | mscz, pdf |          |
 | **15**  | Drink with me               | mscz      |          |
 | **15¾** | Выстрел                     |           |          |
 | **16**  | Песня Гавроша               |           |          |
