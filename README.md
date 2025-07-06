@@ -20,6 +20,7 @@
 | **13**  | Do you hear the people sing | mscz      |          |
 | **14**  | Little fall of rain         | mscz, pdf |          |
 | **15**  | Drink with me               | mscz      |          |
+| **15~?**| Реприза Red & black         | mscz      |          |
 | **15¾** | Выстрел                     |           |          |
 | **16**  | Песня Гавроша               | mscz      |          |
 | **17**  | Гибель Друзей азбуки        | mscz      |          |
