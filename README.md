@@ -26,6 +26,7 @@
 | **17**  | Гибель Друзей азбуки        | mscz      |          |
 | **18**  | Empty chairs                | mscz      |          |
 | **19**  | Epilogue                    | mscz      |          |
+| **xx**  | One day more                | mscz      |          |
 
  - mscz — musescore файл с аранжировкой
  - pdf — человекочитаемый клавир
