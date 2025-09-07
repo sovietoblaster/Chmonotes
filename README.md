@@ -26,7 +26,9 @@
 | **17**  | Гибель Друзей азбуки        | mscz      |          |
 | **18**  | Empty chairs                | mscz      |          |
 | **19**  | Epilogue                    | mscz      |          |
+| **xx**  | Javert's arrival            | mscz      |          |
 | **xx**  | One day more                | mscz      |          |
+| **xx**  | Runaway cart                | mscz      |          |
 
  - mscz — musescore файл с аранжировкой
  - pdf — человекочитаемый клавир
